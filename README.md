@@ -1,4 +1,4 @@
-# Unreal Engine 4/5 Scripting System
+# Unreal Engine 4/5 Scripting System (Updated Stellar Blade fork based on https://github.com/Chrisr0/RE-UE4SS.git)
 
 Lua scripting system platform, C++ Modding API, SDK generator, blueprint mod loader, live property editor and other dumping utilities for UE4/5 games.
 
